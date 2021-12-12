@@ -1,4 +1,4 @@
-# {Shan, Shui}*
+# {Shan, Shui}*  自动生成一副山水画
 Procedurally-generated vector-format infinitely-scrolling Chinese landscape for the browser.
 Generate your own on https://lingdong-.github.io/shan-shui-inf/ (or [Alternative link](https://shan-shui-inf.glitch.me)).
 
